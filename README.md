@@ -15,7 +15,11 @@ Bangladesh-based non-profit Bengali.AI is focused on helping to solve this probl
 
 ![kd](https://i.ibb.co/vQHj6RR/grapheme.jpg)
 
+* Project [**Notebook**](https://github.com/shadab4150/Classify-the-components-of-handwritten-Bengali/blob/master/Grapheme_Bengali_Letter_detection.ipynb)
+
 * Dataset was is parquet file which has to be converted to image:
+
+* In this I have build CNN model which separately classifies three constituent elements in the image: grapheme root, vowel diacritics, and consonant diacritics.
 
 ![kd](https://i.ibb.co/Rv3gdHH/data.jpg)
 
