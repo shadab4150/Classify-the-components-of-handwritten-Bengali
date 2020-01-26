@@ -8,4 +8,23 @@ Bangladesh-based non-profit Bengali.AI is focused on helping to solve this probl
 
 * **Classify three constituent elements in the image: grapheme root, vowel diacritics, and consonant diacritics.**
 
-* Its a copy of my kernel of Bengali Competition on kaggle which i Participated.
+### Why Grapheme
+
+![kd](https://i.ibb.co/zXtyYTg/graph.jpg)
+
+
+![kd](https://i.ibb.co/vQHj6RR/grapheme.jpg)
+
+* Dataset was is parquet file which has to be converted to image:
+
+![kd](https://i.ibb.co/Rv3gdHH/data.jpg)
+
+#### Accuracy was compbuted using MultiLableFbeta:
+
+![kd](https://i.ibb.co/LC6rJRN/score.jpg)
+
+#### Prediction:
+
+![kd](https://i.ibb.co/k9t2CSC/prediction.jpg)
+
+* Its a copy of my kernel of Bengali Competition on [kaggle](https://i.ibb.co/k9t2CSC/prediction.jpg).
